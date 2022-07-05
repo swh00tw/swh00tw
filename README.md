@@ -14,6 +14,7 @@ I love building website, writing backend server, DevOps and learning anything ab
 
 
 ![swh00tw's github stats](https://github-readme-stats.vercel.app/api?username=swh00tw&hide=["issues"]&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swh00tw&theme=tokyonight)](https://github.com/swh00tw)
 
 <!--
 **swh00tw/swh00tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
