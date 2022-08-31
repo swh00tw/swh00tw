@@ -17,7 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 August 2022 - To: 31 August 2022
+
+Total Time: 3 hrs
+
+TypeScript   2 hrs 51 mins   ███████████████████████▓░   95.15 %
+YAML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
 
 <!--END_SECTION:waka-->
