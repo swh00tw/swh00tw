@@ -7,7 +7,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='350'>
 
-<h3>I am Shu-Wei Hsu, aka Frank Hsu. A full-stack developer from Taiwan. 👨‍💻</h3>
+<!-- <h3>I am Shu-Wei Hsu, aka Frank Hsu. A full-stack developer from Taiwan. 👨‍💻</h3> -->
 
 
 
