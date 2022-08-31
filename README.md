@@ -15,6 +15,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swh00tw)](https://github.com/swh00tw)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   2 hrs 51 mins   ███████████████████████▓░   95.15 %
+YAML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
