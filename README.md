@@ -14,6 +14,9 @@
 ![swh00tw's github stats](https://github-readme-stats.vercel.app/api?username=swh00tw&hide=["issues"]&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swh00tw)](https://github.com/swh00tw)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **swh00tw/swh00tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
