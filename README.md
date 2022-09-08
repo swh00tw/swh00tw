@@ -17,13 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 August 2022 - To: 06 September 2022
+From: 31 August 2022 - To: 07 September 2022
 
-Total Time: 4 hrs 45 mins
+Total Time: 1 hr 44 mins
 
-TypeScript   4 hrs 32 mins   ████████████████████████░   95.55 %
-YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+TypeScript   1 hr 40 mins    ████████████████████████░   96.24 %
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
