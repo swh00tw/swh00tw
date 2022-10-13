@@ -17,14 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
-Total Time: 3 hrs 16 mins
+Total Time: 5 hrs 5 mins
 
-TypeScript   2 hrs 12 mins   ████████████████▓░░░░░░░░   67.15 %
-XML          51 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
-JSON         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TypeScript   2 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.24 %
+Other        1 hr            █████░░░░░░░░░░░░░░░░░░░░   19.82 %
 ```
 
 <!--END_SECTION:waka-->
