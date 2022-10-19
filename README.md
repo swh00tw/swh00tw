@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 October 2022 - To: 17 October 2022
+From: 11 October 2022 - To: 18 October 2022
 
-Total Time: 15 hrs 8 mins
+Total Time: 17 hrs 57 mins
 
-TypeScript   13 hrs 49 mins  ██████████████████████▓░░   91.32 %
-Other        1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+TypeScript   16 hrs 36 mins  ███████████████████████░░   92.53 %
+Other        1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 ```
 
 <!--END_SECTION:waka-->
