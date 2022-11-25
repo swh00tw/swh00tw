@@ -17,14 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 23 November 2022
+From: 17 November 2022 - To: 24 November 2022
 
-Total Time: 5 hrs 12 mins
+Total Time: 8 hrs 26 mins
 
-TypeScript   3 hrs 56 mins   ███████████████████░░░░░░   75.57 %
-Markdown     24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Docker       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+TypeScript   7 hrs           ████████████████████▓░░░░   83.05 %
+Markdown     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
