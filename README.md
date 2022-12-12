@@ -17,12 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
+From: 04 December 2022 - To: 11 December 2022
 
-Total Time: 14 hrs 30 mins
+Total Time: 15 hrs 17 mins
 
-TypeScript   14 hrs 6 mins   ████████████████████████▒   97.18 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+TypeScript   13 hrs 48 mins  ██████████████████████▓░░   90.28 %
+Python       1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
