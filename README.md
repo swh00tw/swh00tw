@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
-Total Time: 10 hrs 17 mins
+Total Time: 7 hrs 47 mins
 
-Python       9 hrs 20 mins   ██████████████████████▓░░   90.76 %
-TypeScript   53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python       6 hrs 50 mins   ██████████████████████░░░   87.79 %
+TypeScript   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
