@@ -17,12 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
-
-Total Time: 1 hr 22 mins
-
-Python       1 hr 19 mins    ████████████████████████▒   96.78 %
-TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
