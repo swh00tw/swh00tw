@@ -17,11 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
-Total Time: 0 secs
+Total Time: 2 hrs 4 mins
 
-No activity tracked
+Python   1 hr 59 mins    ████████████████████████░   96.47 %
+Other    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
