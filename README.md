@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
-Total Time: 6 hrs 58 mins
+Total Time: 6 hrs 24 mins
 
-Python   6 hrs 58 mins   █████████████████████████   100.00 %
+Python   6 hrs 24 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
