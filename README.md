@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-Total Time: 10 hrs 7 mins
+Total Time: 13 hrs 2 mins
 
-Python       9 hrs 43 mins   ████████████████████████░   96.12 %
-Svelte       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-TSConfig     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Lua          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python       9 hrs 24 mins   ██████████████████░░░░░░░   72.20 %
+TypeScript   2 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+CSS          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Svelte       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+TSConfig     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
