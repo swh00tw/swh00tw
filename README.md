@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2023 - To: 17 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
-Total Time: 14 hrs 27 mins
+Total Time: 15 hrs 13 mins
 
-TypeScript   7 hrs 25 mins   █████████████░░░░░░░░░░░░   51.42 %
-Python       6 hrs 59 mins   ████████████░░░░░░░░░░░░░   48.39 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python       7 hrs 45 mins   ████████████▓░░░░░░░░░░░░   51.01 %
+TypeScript   7 hrs 25 mins   ████████████▒░░░░░░░░░░░░   48.82 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
