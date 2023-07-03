@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
-Total Time: 14 hrs 20 mins
+Total Time: 13 hrs 26 mins
 
-Python       10 hrs 20 mins  ██████████████████░░░░░░░   72.14 %
-Svelte       2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Lua          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-JSON         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python       9 hrs 26 mins   █████████████████▓░░░░░░░   70.25 %
+Svelte       2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Lua          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+JSON         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
