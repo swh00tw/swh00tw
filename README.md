@@ -1,5 +1,5 @@
 
-<h2> Hi there 👋 </h2>
+<h2> Hi there <a href="https://swh00tw.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> </h2>
 <!-- Badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:a6140000@gmail.com)](mailto:a6140000@gmail.com)
