@@ -16,6 +16,7 @@
 
 ---
 <h4>Stack 🧪</h4>
+<!-- icon: https://marwin1991.github.io/profile-technology-icons/ -->
 
 <h5>⚡ Web dev </h5> 
 <div align="start">
