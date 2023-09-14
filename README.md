@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Total Time: 18 hrs 21 mins
+Total Time: 17 hrs 10 mins
 
-Python       17 hrs 14 mins  ███████████████████████▒░   93.92 %
-Text         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Svelte       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-gitignore    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python       16 hrs 11 mins  ███████████████████████▓░   94.22 %
+Text         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Svelte       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+gitignore    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
