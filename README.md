@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-Total Time: 27 hrs 14 mins
+Total Time: 21 hrs 49 mins
 
-Svelte         11 hrs 4 mins   ██████████░░░░░░░░░░░░░░░   40.64 %
-TypeScript     8 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-Docker         2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-JSON           1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Python         1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Svelte         10 hrs 56 mins  ████████████▓░░░░░░░░░░░░   50.13 %
+TypeScript     6 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.85 %
+Python         1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+JSON           53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Docker         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
