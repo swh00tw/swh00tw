@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-Total Time: 20 hrs 58 mins
+Total Time: 19 hrs 47 mins
 
-Python       13 hrs 10 mins  ███████████████▓░░░░░░░░░   62.79 %
-Svelte       3 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-TypeScript   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-JavaScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Markdown     38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Python       11 hrs 59 mins  ███████████████░░░░░░░░░░   60.55 %
+Svelte       3 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+TypeScript   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+JavaScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Markdown     38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
