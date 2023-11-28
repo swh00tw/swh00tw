@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2023 - To: 26 November 2023
+From: 20 November 2023 - To: 27 November 2023
 
-Total Time: 3 hrs 27 mins
+Total Time: 3 hrs 24 mins
 
-Python       1 hr 58 mins    ██████████████▒░░░░░░░░░░   57.15 %
-Svelte       1 hr 10 mins    ████████▒░░░░░░░░░░░░░░░░   33.84 %
-TypeScript   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Python       1 hr 55 mins    ██████████████░░░░░░░░░░░   56.52 %
+Svelte       1 hr 10 mins    ████████▓░░░░░░░░░░░░░░░░   34.34 %
+TypeScript   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
