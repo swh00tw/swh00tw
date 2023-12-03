@@ -64,11 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2023 - To: 29 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-Total Time: 13 mins
+Total Time: 47 mins
 
-Python   13 mins         █████████████████████████   100.00 %
+Other       32 mins         █████████████████▒░░░░░░░   68.98 %
+Python      13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.14 %
+gitconfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
