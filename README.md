@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Total Time: 17 hrs 38 mins
+Total Time: 18 hrs 22 mins
 
-TypeScript   14 hrs 6 mins   ████████████████████░░░░░   79.96 %
-Svelte       2 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TypeScript   14 hrs 29 mins  ███████████████████▓░░░░░   78.86 %
+Svelte       2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
