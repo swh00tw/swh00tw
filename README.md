@@ -35,12 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2024 - To: 20 January 2024
+From: 14 January 2024 - To: 21 January 2024
 
-Total Time: 1 min
+Total Time: 4 mins
 
-TypeScript   1 min           ███████████████████████░░   91.52 %
-Python       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Svelte       2 mins          █████████████▒░░░░░░░░░░░   53.76 %
+TypeScript   1 min           ██████████▓░░░░░░░░░░░░░░   43.25 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
