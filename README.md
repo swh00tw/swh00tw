@@ -35,12 +35,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
-Total Time: 19 hrs 36 mins
+Total Time: 18 hrs 10 mins
 
-TypeScript   18 hrs 37 mins  ███████████████████████▓░   94.94 %
-Python       59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+TypeScript   17 hrs 21 mins  ████████████████████████░   95.51 %
+Python       48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
