@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2024 - To: 15 February 2024
+From: 09 February 2024 - To: 16 February 2024
 
-Total Time: 15 hrs 41 mins
+Total Time: 9 hrs 39 mins
 
-TypeScript   9 hrs 52 mins   ███████████████▓░░░░░░░░░   62.93 %
-Python       4 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
-JSON         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python       4 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   42.40 %
+TypeScript   4 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.63 %
+JSON         59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
