@@ -9,16 +9,16 @@
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='350'> -->
 
 <h4>About me ✨</h4>
-<p fontSize="12px">Hi, I am Frank. <br/>I'm a Taiwanese Full Stack Developer with a strong interest in web development and UI/UX design. 👨‍💻<br/> </p><p>Currently, I am studying at <a href="https://tech.cornell.edu/">Cornell Tech</a> @ NYC and actively seeking an SWE internship opportunity @ US.<br/> Hit me up if you are interested in my work! 🔥🚀 </p>
+<p fontSize="12px">Hi, I am Frank. <br/>I'm a New York-based Full Stack Developer with a strong interest in Web development and Design Engineering. 👨‍💻<br/> </p><p>Currently, I am studying at <a href="https://tech.cornell.edu/">Cornell Tech</a> @ NYC and actively seeking an SWE internship or full-time opportunity @ US.<br/> Hit me up if you are interested in my work! 🔥🚀 </p>
 
 <!-- ![swh00tw's github stats](https://github-readme-stats.vercel.app/api?username=swh00tw&hide=["issues"]&show_icons=true) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swh00tw)](https://github.com/swh00tw) -->
 
 ---
-<h4>Stack 🧪</h4>
+<!-- <h4>Stack 🧪</h4> -->
 <!-- icon: https://github.com/tandpfun/skill-icons#readme -->
 
-<h5>⚡ Web dev </h5> 
+<!--  <h5>⚡ Web dev </h5> 
 
 [![My Skills](https://skillicons.dev/icons?i=graphql,tailwind,react,svelte,supabase,gatsby,next,nodejs,express,redux,postgres,mongodb,flask,prisma,apollo,materialui&perline=10)](https://skillicons.dev)
 
@@ -29,8 +29,9 @@
 <h5>⚡ Others </h5> 
 
 [![My Skills](https://skillicons.dev/icons?i=unity,git,github,githubactions,figma,vim,neovim,docker,azure,vercel,aws,heroku,latex,md&perline=10)](https://skillicons.dev)
-
 ---
+-->
+
 <h4>Stat 📊</h4>
 <!--START_SECTION:waka-->
 
