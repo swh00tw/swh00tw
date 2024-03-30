@@ -8,8 +8,8 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/swh00tw/)](https://leetcode.com/swh00tw/)
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='350'> -->
 
-<h4>About me ✨</h4>
-<p fontSize="12px">Hi, I am Frank. <br/>I'm a New York-based Full Stack Developer with a strong interest in Web development and Design Engineering. 👨‍💻<br/> </p><p>Currently, I am studying at <a href="https://tech.cornell.edu/">Cornell Tech</a> @ NYC and actively seeking an SWE internship or full-time opportunity @ US.<br/> Hit me up if you are interested in my work! 🔥🚀 </p>
+<h4>About me </h4>
+<p fontSize="12px">Hi, I am Frank. <br/>I'm a New York-based Full Stack Developer with a strong interest in Web development and Design Engineering. 👨‍💻<br/> </p><p>Currently, I am studying at <a href="https://tech.cornell.edu/">Cornell Tech</a> @ NYC and actively seeking an SWE internship or full-time opportunity @ US.<br/> Hit me up if you are interested in my work!  </p>
 
 <!-- ![swh00tw's github stats](https://github-readme-stats.vercel.app/api?username=swh00tw&hide=["issues"]&show_icons=true) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swh00tw)](https://github.com/swh00tw) -->
