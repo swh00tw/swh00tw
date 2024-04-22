@@ -36,12 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2024 - To: 20 April 2024
+From: 14 April 2024 - To: 21 April 2024
 
-Total Time: 0 secs
+Total Time: 8 mins
 
-MDX    0 secs          █████████████████████▓░░░   86.13 %
-JSON   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Bash   7 mins          ██████████████████████▒░░   89.53 %
+JSON   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+MDX    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
