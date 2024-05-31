@@ -36,12 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-Total Time: 9 mins
+Total Time: 1 min
 
-TypeScript   9 mins          ████████████████████████▓   98.98 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Svelte       0 secs          ███████████████████░░░░░░   75.41 %
+TypeScript   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.59 %
 ```
 
 <!--END_SECTION:waka-->
