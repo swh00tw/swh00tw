@@ -36,11 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Total Time: 3 hrs 4 mins
+Total Time: 2 hrs 45 mins
 
-Go   3 hrs 4 mins    █████████████████████████   100.00 %
+Go       2 hrs 39 mins   ████████████████████████░   96.44 %
+Python   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
