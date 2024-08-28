@@ -36,14 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2024 - To: 26 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-Total Time: 4 hrs 57 mins
+Total Time: 4 hrs 10 mins
 
-Go           4 hrs 43 mins   ███████████████████████▓░   95.30 %
-Python       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Go           3 hrs 59 mins   ████████████████████████░   95.77 %
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
