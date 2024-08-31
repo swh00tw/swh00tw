@@ -36,13 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 29 August 2024
+From: 23 August 2024 - To: 30 August 2024
 
-Total Time: 3 hrs 8 mins
+Total Time: 2 hrs 55 mins
 
-Go       3 hrs 5 mins    ████████████████████████▓   98.58 %
-Python   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go       2 hrs 53 mins   ████████████████████████▓   98.51 %
+Python   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
