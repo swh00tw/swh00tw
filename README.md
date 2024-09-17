@@ -36,15 +36,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-Total Time: 3 hrs 43 mins
+Total Time: 3 hrs 34 mins
 
-Go           2 hrs 56 mins   ███████████████████▓░░░░░   79.13 %
-TypeScript   25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-YAML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Go           3 hrs 23 mins   ███████████████████████▓░   94.74 %
+Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
