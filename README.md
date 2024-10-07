@@ -36,12 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 1 hr 58 mins
+Total Time: 1 hr 49 mins
 
-Go           1 hr 48 mins    ███████████████████████░░   91.91 %
-TypeScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Go           1 hr 39 mins    ██████████████████████▓░░   91.25 %
+TypeScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
 ```
 
 <!--END_SECTION:waka-->
