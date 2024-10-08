@@ -36,12 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Total Time: 1 hr 49 mins
+Total Time: 2 hrs 17 mins
 
-Go           1 hr 39 mins    ██████████████████████▓░░   91.25 %
-TypeScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Go           1 hr 39 mins    ██████████████████▒░░░░░░   72.81 %
+TypeScript   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Svelte       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
