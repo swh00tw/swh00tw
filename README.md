@@ -36,15 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-Total Time: 2 hrs 17 mins
+Total Time: 1 hr 38 mins
 
-Go           1 hr 39 mins    ██████████████████▒░░░░░░   72.81 %
-TypeScript   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-Svelte       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go           1 hr 11 mins    ██████████████████░░░░░░░   71.99 %
+TypeScript   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Svelte       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
