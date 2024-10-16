@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:a6140000@gmail.com)](mailto:a6140000@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%E6%9B%B8%E7%B6%AD-%E8%A8%B1-109621210/)](https://www.linkedin.com/in/%E6%9B%B8%E7%B6%AD-%E8%A8%B1-109621210/)
-[![Portfolio Badge](https://img.shields.io/badge/website-808080?style=for-the-badge&logo=About.me&logoColor=white&link=https://swh00tw.vercel.app)](https://swh00tw.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/website-808080?style=for-the-badge&logo=About.me&logoColor=white&link=https://swh00tw.me)](https://swh00tw.vercel.app)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/swh00tw/)](https://leetcode.com/swh00tw/)
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='350'> -->
 
