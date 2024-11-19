@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Total Time: 8 hrs 6 mins
+Total Time: 7 hrs 25 mins
 
-Go       7 hrs 56 mins   ████████████████████████▒   97.83 %
-Python   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Go       7 hrs 14 mins   ████████████████████████▒   97.63 %
+Python   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
