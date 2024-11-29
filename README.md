@@ -37,11 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2024 - To: 27 November 2024
+From: 21 November 2024 - To: 28 November 2024
 
-Total Time: 1 hr 40 mins
+Total Time: 1 hr 11 mins
 
-Go   1 hr 40 mins    █████████████████████████   100.00 %
+Go   1 hr 11 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
