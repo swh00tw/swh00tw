@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2025 - To: 23 January 2025
+From: 17 January 2025 - To: 24 January 2025
 
-Total Time: 1 hr 50 mins
+Total Time: 2 hrs 50 mins
 
-Go       1 hr 50 mins    █████████████████████████   99.97 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go       2 hrs 50 mins   █████████████████████████   99.98 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
