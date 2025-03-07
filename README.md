@@ -37,11 +37,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 05 March 2025
+From: 27 February 2025 - To: 06 March 2025
 
-Total Time: 14 mins
+Total Time: 13 mins
 
-Go   14 mins         █████████████████████████   100.00 %
+Go      12 mins         ███████████████████████░░   91.48 %
+Lua     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
