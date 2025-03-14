@@ -37,14 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2025 - To: 12 March 2025
+From: 06 March 2025 - To: 13 March 2025
 
-Total Time: 5 hrs 5 mins
+Total Time: 4 hrs 57 mins
 
-Go       3 hrs 2 mins    ███████████████░░░░░░░░░░   59.81 %
-Python   2 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.76 %
-Lua      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Go       2 hrs 56 mins   ██████████████▓░░░░░░░░░░   59.21 %
+Python   2 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   40.74 %
 Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
